@@ -298,3 +298,12 @@ GROUP BY 1 ORDER BY 1;
 5. **Backup** - Regular backup of checkpoint locations
 
 ---
+
+## Author
+
+**Aditya Shinde**  
+Data Engineer  
+Passionate about building scalable data pipelines
+
+---
+Last updated - January 2026
